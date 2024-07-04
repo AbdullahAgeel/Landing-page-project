@@ -132,3 +132,100 @@ img {
   border: 5px solid #3882f6;
   border-radius: 11px;
 }
+
+.testimonial-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e5e7eb;
+  color: #1f2937;
+  font-size: 32px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.testimonial-box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 20px;
+  max-width: 800px;
+}
+
+.testimonial-credentials {
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.testimonial-text {
+  font-style: italic;
+  color: #a2aaad;
+}
+
+.action-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.action-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 96px;
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #3882f6;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.butto {
+  background-color: #3882f6;
+  width: 100px;
+  padding: 6px 12px;
+  border-radius: 7px;
+  border: 1px solid white;
+  outline: none;
+  color: white;
+  cursor: pointer;
+}
+
+.butto a {
+  color: white;
+  font-size: 12px;
+}
+
+.action-header {
+  color: white;
+  font-size: 20px;
+}
+
+.action-text {
+  font-size: 15px;
+  color: #a2aaad;
+}
+
+.action-mini-box {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2937;
+  padding-top: 22px;
+  padding-bottom: 22px;
+}
+
+.footer-text {
+  color: white;
+  font-size: 12px;
+}
