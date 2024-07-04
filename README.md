@@ -24,6 +24,7 @@ And this is what I built:
 
 
 
+
 <img width="1440" alt="Screenshot 2024-07-04 at 8 51 35 PM" src="https://github.com/AbdullahAgeel/Landing-page-project/assets/76103713/4db3bfb4-b558-4823-8353-c1001e9d25b1">
 
 
